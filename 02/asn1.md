@@ -1,0 +1,1 @@
+This homework has served as a foundation for all the following homeworks. I learned about ASN1, which is used to describe bytes of data in a universally structured pattern (TLV). In this homework, DER encoders of different data types was implemented.
